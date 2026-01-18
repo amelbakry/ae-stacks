@@ -3,7 +3,7 @@ locals {
   stack-a = {
     "stack-a" = {
       terraform_version       = "1.5.5",
-      project_root            = "ae-stacks/stack-a",
+      project_root            = "stack-a",
       team                    = "devops",
       cloud_provider          = "stack-a",
       environment             = "production",
